@@ -5,6 +5,7 @@
 ### Dashboards
 
 [College Student On Wellness](/sample_page)
+
 <img src="images/project1.1.jpg?raw=true"/>
 <img src="images/project1.2.jpg?raw=true"/>
 <img src="images/project1.3.jpg?raw=true"/>
