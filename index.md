@@ -6,9 +6,9 @@
 
 [College Student On Wellness](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/project1.1.JPG?raw=true"/>
-<img src="images/project1.2.JPG?raw=true"/>
-<img src="images/project1.3.JPG?raw=true"/>
+<img src="images/Project1.1.JPG?raw=true"/>
+<img src="images/Project1.2.JPG?raw=true"/>
+<img src="images/Project1.3.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
