@@ -4,7 +4,7 @@
 
 ### Dashboards
 
-[College Student On Wellness](/sample_page)
+[College Student On Wellness](/pdf/Project%20File%20(College%20Student%20On%20Wellness).xlsx)
 
 <img src="images/Project%201.1.JPG?raw=true"/>
 <img src="images/Project%201.2.JPG?raw=true"/>
