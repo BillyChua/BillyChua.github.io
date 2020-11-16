@@ -12,7 +12,7 @@
 
 ---
 
-### Analysis and Database design - Analysis On Video Games Sales (Steam)
+### Analysis, Database Design and Excel Dashboard- Analysis On Video Games Sales (Steam)
 
 [Analysis and SQL design - Analysis On Video Games Sales (Steam) ppt](/pdf/Video%20Games%20Analysis%20For%20Steam.pptx)
 
