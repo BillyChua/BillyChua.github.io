@@ -18,7 +18,7 @@
 [Database ER diagram (Steam)](/pdf/Database%20ER%20diagram%20(Steam).pdf)
 
 <img src="images/Project_2.1.JPG?raw=true"/>
-<img src="images/Project_2.2.JPG?raw=true"/>
+<img src="images/Project_2.22.JPG?raw=true"/>
 <img src="images/Project_2.3.JPG?raw=true"/>
 
 ---
