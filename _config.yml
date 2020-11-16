@@ -3,10 +3,8 @@ logo: "/images/profile photo.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Platform used
   <br><br>
-  MSSQL
-  <br><br>
-  SQLite
-  <br><br>
+  MSSQL,
+  SQLite,
   Excel/PowerQuery
   
   <br><br>
