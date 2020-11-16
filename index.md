@@ -25,10 +25,12 @@
 <img src="images/Project_2.3.JPG?raw=true"/>
 
 ---
+
 [Project 3 Title](http://example.com/)
-<img src="images/Project_2.1.JPG?raw=true"/>
-<img src="images/Project_2.22.JPG?raw=true"/>
-<img src="images/Project_2.3.JPG?raw=true"/>
+
+<img src="images/Project_3.1.JPG?raw=true"/>
+<img src="images/Project_3.2.JPG?raw=true"/>
+<img src="images/Project_3.3.JPG?raw=true"/>
 ---
 
 ### Category Name 2
