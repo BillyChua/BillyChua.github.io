@@ -4,14 +4,14 @@
 
 ### Dashboards
 
-[College Student On Wellness](/pdf/Project%20File%20(College%20Student%20On%20Wellness).xlsx)
+[Analysis And Dashboard - College Student On Wellness](/pdf/Project%20File%20(College%20Student%20On%20Wellness).xlsx)
 
 <img src="images/Project%201.1.JPG?raw=true"/>
 <img src="images/Project%201.2.JPG?raw=true"/>
 <img src="images/Project%201.3.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analysis and SQL design - Analysis On Video Games Sales](/pdf/Video%20Games%20Analysis%20For%20Steam.pptx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
