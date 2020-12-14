@@ -16,7 +16,7 @@
 
 [Analysis and SQL design - Analysis On Video Games Sales (Steam) ppt](/pdf/Video%20Games%20Analysis%20For%20Steam.pptx)
 
-[Excel Query and Dashboard](/pdf/Project%20File%20(College%20Student%20On%20Wellness).xlsx)
+[Excel Query and Dashboard](/pdf/Project%20File%20(Steam).xlsx)
 
 [Database ER diagram (Steam) pdf](/pdf/Database%20ER%20diagram%20(Steam).pdf)
 
