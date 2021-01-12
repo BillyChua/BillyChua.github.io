@@ -26,3 +26,10 @@
 
 ---
 
+### Power BI Dashboard- Analysis On Academic Result
+
+[Power BI Dashboard](/pdf/Project.pbix)
+
+<img src="images/Project_3.1.JPG?raw=true"/>
+<img src="images/Project_3.2.JPG?raw=true"/>
+<img src="images/Project_3.3.JPG?raw=true"/>
