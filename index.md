@@ -33,3 +33,16 @@
 <img src="images/Project_3.1.JPG?raw=true"/>
 <img src="images/Project_3.2.JPG?raw=true"/>
 <img src="images/Project_3.3.JPG?raw=true"/>
+
+
+---
+
+### Python Machine Learning Model- Prediction On Academic Result
+
+[Python Machine Learn Model](/pdf/MLproject.pptx)
+[Python Script](/pdf/ProjectFile.ipynb)
+
+<img src="images/4.1.PNG?raw=true"/>
+<img src="images/4.2.PNG?raw=true"/>
+<img src="images/4.3.PNG?raw=true"/>
+
