@@ -40,6 +40,7 @@
 ### Python Machine Learning Model- Prediction On Academic Result
 
 [Python Machine Learn Model](/pdf/MLproject.pptx)
+
 [Python Script](/pdf/ProjectFile.ipynb)
 
 <img src="images/4.1.PNG?raw=true"/>
