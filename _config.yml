@@ -6,7 +6,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   MSSQL,
   SQLite,
   Excel,
-  Power BI
+  Power BI,
+  Python,
+  Anaconda3,
+  Jupyter Notebook
   
   <br><br>
   Experiences
