@@ -1,5 +1,5 @@
 title: Billy Chua # your name (or website title) here
-logo: "/images/WorkPhotoSideV1.jpg?raw=true" # your photo (or logo) here
+logo: "/images/WorkPhotoSideV1.jpg?raw=true"{:height="50%" width="50%"} # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Platform used
   <br><br>
