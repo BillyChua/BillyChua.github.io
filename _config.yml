@@ -1,7 +1,7 @@
 title: Billy Chua # your name (or website title) here
 logo: "/images/WorkPhotoSideV1.jpg?raw=true"# your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-### Platform used
+  Platform used
   <br><br>
   MSSQL,
   SQLite,
@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Jupyter Notebook
   
   <br><br>
-### Experiences
+  Experiences
   <br><br>
   Worked in Supply Chain Planning with 7 years of experience in analysis and inventory planning. 
   <br><br>
