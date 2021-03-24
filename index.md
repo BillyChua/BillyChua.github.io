@@ -20,7 +20,7 @@
 
 [Database ER diagram (Steam) pdf](/pdf/Database%20ER%20diagram%20(Steam).pdf)
 
-<iframe src="https://onedrive.live.com/embed?cid=224EC83C30F7BCA2&amp;resid=224EC83C30F7BCA2%21342&amp;authkey=AAkVCoNHo2uIU3o&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=224EC83C30F7BCA2&amp;resid=224EC83C30F7BCA2%21342&amp;authkey=AAkVCoNHo2uIU3o&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="450px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 <img src="images/Project_2.1.JPG?raw=true"/>
 <img src="images/Project_2.3.JPG?raw=true"/>
@@ -44,6 +44,6 @@
 
 [Python Script](/pdf/ProjectFile.ipynb)
 
-<iframe src="https://onedrive.live.com/embed?cid=224EC83C30F7BCA2&amp;resid=224EC83C30F7BCA2%21339&amp;authkey=ANFQi1tk5lJVBs4&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=224EC83C30F7BCA2&amp;resid=224EC83C30F7BCA2%21339&amp;authkey=ANFQi1tk5lJVBs4&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="450px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 
